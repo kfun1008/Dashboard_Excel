@@ -21,7 +21,7 @@ Design a dashboard that answers the questions a business owner actually asks:
 - What is the real margin between production cost and sales revenue?
 - Where is waste occurring and at what volume?
 
-## 🛠️ Tools Used
+## Tools Used
 
 - Microsoft Excel — PivotTables, dynamic charts, and dashboard design
 - Manual data cleaning and transformation
@@ -33,8 +33,9 @@ Design a dashboard that answers the questions a business owner actually asks:
 
 ## File structure
 
-- `Dashboard_EN.xlsx`: Fully functional dashboard in English
-- `Readme_EN.md`: This documentation
+|**File**|**Description**|
+|`Dashboard_EN.xlsx`|Fully functional dashboard in English°
+|`Readme_EN.md`| This documentation|
 
 **NOTE:** This is a simplified version of a real business case. All sensitive data has been anonymized. 
 
