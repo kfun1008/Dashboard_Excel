@@ -33,16 +33,10 @@ Design a dashboard that answers the questions a business owner actually asks:
 
 ## File structure
 
-
 | File | Description | 
 | :----------- | :---------- |
 | `Dashboard_EN.xlsx` | Fully functional dashboard in English|
 | `Readme_EN.md`       | This documentation |
-
-| File | Description |
-| :----------- | :---------- |
-| `Dashboard_EN.xlsx` | Fully functional dashboard in English |
-| `Readme_EN.md`| This documentation |
 
 **NOTE:** This is a simplified version of a real business case. All sensitive data has been anonymized. 
 
