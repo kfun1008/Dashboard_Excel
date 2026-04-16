@@ -40,6 +40,7 @@ Design a dashboard that answers the questions a business owner actually asks:
 | `Readme_EN.md`       | This documentation |
 
 | File | Description |
+| :----------- | :---------- |
 | `Dashboard_EN.xlsx` | Fully functional dashboard in English |
 | `Readme_EN.md`| This documentation |
 
